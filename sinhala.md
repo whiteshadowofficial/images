@@ -1,5 +1,7 @@
 Jessi-WhatsApp-Bot-MD Public release 🎓
 
+. Click [SCAN]() and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+2
 
 මේ බොට්ව public දාලා අනිත් අයටත් පාවිච්චි කරන්න පුලුවන් විදියට හැදුවට බොට් ගෙන් එන video,song,photo වලට ඔයාගෙන් ☇ඩේටා කැපෙන්නෙ නෑ...✅
 
@@ -16,8 +18,7 @@ Jessi-WhatsApp-Bot-MD Public release 🎓
 
 📚 පළමුව ඔබ heroku Account එකක් හදාගන්න ඕනෙ.හදාගන්න දන්නෙ නැත්නම් බලන්න👇
 
-Heroku Signup👇
-[https://tinyurl.com/ye8y47lr]
+[Heroku Signup👇](https://tinyurl.com/ye8y47lr)
 
 Video 
 [https://youtu.be/-l7z5KFLzro]
