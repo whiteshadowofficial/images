@@ -9,13 +9,11 @@ Jessi-WhatsApp-Bot-MD Public release 🎓
 ✅New V 10.5  Multi Device Public release
 
 
-Github Link....👇
 
-
-https://github.com/whiteshadowofficial/STEFANIE-BOT-MD
 
 
 [Step 01]
+
 📚 පළමුව ඔබ heroku Account එකක් හදාගන්න ඕනෙ.හදාගන්න දන්නෙ නැත්නම් බලන්න👇
 
 Heroku Signup👇
@@ -24,7 +22,10 @@ Heroku Signup👇
 Video 
 [https://youtu.be/-l7z5KFLzro]
 
+
+
 [Step 02]
+
 📚දෙවනුව Github account එකක් හදාගන්න.
 
 Singup Github.👇
@@ -33,7 +34,10 @@ Singup Github.👇
 Video
 [https://youtu.be/Pdk_pTlgRTw]
 
+
+
 [Step 03]
+
 📚තුන්වෙනුව බොට්ව whatsapp වෙත සම්බන්ද කිරීම සදහා qr කේතය ලබාගන්න
  
 [ https://replit.com/@virusfucker/Jessi-WhatsApp-Bot-MD?v=1outputonly=1&lite=1#index.js
@@ -43,15 +47,20 @@ Video
 [ https://youtu.be/hWbt_xXs6m0 ]
 
 
+
 [Step 04]
+
 📚හතර වෙනුවට බොට්ව Fork කරන්න.
 
+[ https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2/fork ]
 
-[ https://github.com/whiteshadowofficial/STEFANIE-BOT-MD/fork ]
+
 
 [Step 05]
+
 📚 ඊලගට ඔයා Qr code එක scan කරාට පස්සෙ ඔයාට ආපු Session.json file එක ඔයාගෙ repo එකට upload කරන්න.
 
 
 [Step 06]
+
 📚 Bot හෙරොකු වෙත සම්බන්ද කිරීමට ඔයාගෙ රිපෝ එකේ තියන Deploy to heroku botton එක click කරන්න.
