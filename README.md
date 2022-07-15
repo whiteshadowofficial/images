@@ -1,5 +1,6 @@
 # Jessi-Support
 
+----
 
 ❑ Jessi News Update ( 01 )
 <br>
@@ -8,6 +9,8 @@
 
   <div align="center">
 
+----
+
 ❑ Jessi News Update ( 02 )
 <br>
 
@@ -15,9 +18,13 @@
 
   <div align="center">
 
+----
+
 ❑ Stefanie News Update ( 01 )
 <br>
 
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+  [![join](image/wlogo.svg.png)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
 
   <div align="center">
+
+----
