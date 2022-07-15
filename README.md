@@ -1,7 +1,7 @@
 # Jessi-Support
 
 
-> ❑ Jessi News Update ( 01 ) Group
+> ❑ Jessi News Update ( 01 )
 <br>
 
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc)
