@@ -66,7 +66,7 @@ Jessi-WhatsApp-Bot-MD Public release 🎓
 
 
 
-❑ 01.මුලින්ම මේ link එක copy කරගන්න. [Copy this](heroku.com/deploy?template=)
+❑ 01.මුලින්ම මේ link එක copy කරගන්න. [Copy this](https://github.com/whiteshadowofficial/Jessi-Support/blob/main/copy%20this)
 
 ❑ 02.ඔයා fork කරන ලද repo එකේ link එක copy කරගන්න.
 
