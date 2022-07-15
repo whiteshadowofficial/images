@@ -17,7 +17,7 @@ Jessi-WhatsApp-Bot-MD Public release 🎓
 
 📚 පළමුව ඔබ heroku Account එකක් හදාගන්න ඕනෙ.හදාගන්න දන්නෙ නැත්නම් බලන්න👇
 
-❑ [Click To Signup](https://tinyurl.com/ye8y47lr)
+❑ [Click To Signup Heroku](https://tinyurl.com/ye8y47lr)
 
 ❑ [Watch video](https://youtu.be/-l7z5KFLzro)
 
