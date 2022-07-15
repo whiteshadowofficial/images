@@ -50,13 +50,13 @@ Jessi-WhatsApp-Bot-MD Public release 🎓
 
 ❑ [Click To Fork Jessi Bot](https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2/fork)
 
-
+❑ []Watch video] (https://youtu.be/iMzUrRjQfGE)
 
 [Step 05]
 
 📚 ඊලගට ඔයා Qr code එක scan කරාට පස්සෙ ඔයාට ආපු Session.json file එක ඔයාගෙ repo එකට upload කරන්න.
 
-❑ [Watch video](https://youtu.be/uyjuBXmBUK0)
+❑ [Watch video](https://youtu.be/iMzUrRjQfGE)
 
 
 [Step 06]
