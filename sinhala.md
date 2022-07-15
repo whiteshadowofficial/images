@@ -50,7 +50,8 @@ Jessi-WhatsApp-Bot-MD Public release 🎓
 
 ❑ [Click To Fork Jessi Bot](https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2/fork)
 
-❑ []Watch video] (https://youtu.be/iMzUrRjQfGE)
+❑ [Watch video](https://youtu.be/iMzUrRjQfGE)
+
 
 [Step 05]
 
