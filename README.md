@@ -2,7 +2,7 @@
 
 ----
 
-❑ Jessi News Update ( 01 )
+   ❑ Jessi News Update ( 01 )
 <br>
 
   [![join](image/wlogo.svg.png)](https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc)
