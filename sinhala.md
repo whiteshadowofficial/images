@@ -27,11 +27,10 @@ Jessi-WhatsApp-Bot-MD Public release 🎓
 
 📚දෙවනුව Github account එකක් හදාගන්න.
 
-Singup Github.👇
-[ https://github.com ]
+[Click To Singup Github]
+(https://github.com)
 
-Video
-[https://youtu.be/Pdk_pTlgRTw]
+[Watch video](https://youtu.be/Pdk_pTlgRTw)
 
 
 
@@ -39,11 +38,10 @@ Video
 
 📚තුන්වෙනුව බොට්ව whatsapp වෙත සම්බන්ද කිරීම සදහා qr කේතය ලබාගන්න
  
-[ https://replit.com/@virusfucker/Jessi-WhatsApp-Bot-MD?v=1outputonly=1&lite=1#index.js
-  ]
+[Click to Scan Qr Code](https://replit.com/@virusfucker/Jessi-WhatsApp-Bot-MD?v=1outputonly=1&lite=1#index.js)
+ 
 
-Video
-[ https://youtu.be/hWbt_xXs6m0 ]
+[Watch video](https://youtu.be/hWbt_xXs6m0)
 
 
 
@@ -51,7 +49,7 @@ Video
 
 📚හතර වෙනුවට බොට්ව Fork කරන්න.
 
-[ https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2/fork ]
+[Click To Fork Jessi Bot](https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2/fork)
 
 
 
