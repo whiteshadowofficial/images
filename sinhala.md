@@ -56,6 +56,8 @@ Jessi-WhatsApp-Bot-MD Public release 🎓
 
 📚 ඊලගට ඔයා Qr code එක scan කරාට පස්සෙ ඔයාට ආපු Session.json file එක ඔයාගෙ repo එකට upload කරන්න.
 
+❑ [Watch video](https://youtu.be/uyjuBXmBUK0)
+
 
 [Step 06]
 
