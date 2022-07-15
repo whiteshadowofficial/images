@@ -1,7 +1,4 @@
 
-
-[Link](url) and ![Image](src)
-```
 # Jessi-Support
 
 
